@@ -102,7 +102,7 @@ Each topic folder contains either:
 
 ## 🔗 Links
 
-- **Live Site** — [GitHub Pages](https://rhalbhavi.github.io/ultimate-python-repository/)
+- **Live Site** — [GitHub Pages](https://rhalbhavi.github.io/ultimate-python-repository.github.io/)
 - **Source Repository** — [github.com/rhalbhavi/Python-Programming-and-Tkinter](https://github.com/rhalbhavi/Python-Programming-and-Tkinter)
 
 ---
